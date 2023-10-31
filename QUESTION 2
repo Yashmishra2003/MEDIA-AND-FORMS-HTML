@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video src="https://cdn.pixabay.com/vimeo/770540401/birds-138891.mp4?width=640&hash=7b826f810404fe758cf66f51e244e135dd0cb482" controls></video>
+    <audio src="./sample-6s.mp3" controls></audio>
+</body>
+</html>
