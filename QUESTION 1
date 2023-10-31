@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img src="https://cdn.pixabay.com/photo/2023/09/19/12/34/dog-8262506_640.jpg" alt="" width="200px" height="200px">
+    </div>
+
+
+    <div>
+        <img src="https://cdn.pixabay.com/photo/2023/09/18/13/51/cat-8260638_640.jpg" alt="" width="200px" height="200px">
+
+
+    </div>
+
+
+    <div>
+        <img src="https://cdn.pixabay.com/photo/2023/09/16/23/53/loon-8257638_640.jpg" alt="" width="200px" height="200px">
+    </div>
+    <div>
+        <img src="https://cdn.pixabay.com/photo/2023/09/25/06/48/whale-8274339_640.jpg" alt=""  width="200px" height="200px">
+    </div>
+   
+</body>
+</html>
